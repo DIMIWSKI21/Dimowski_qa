@@ -1,7 +1,8 @@
 # Dimowski_qa
-/\/\/\
+---
+Создание репозитория по курсу "QA Обучение профессии тестировщик"
+---
 [Пример моих тест кейсов](ссылка с домашним заданием  к уроку 2.6)
 ---
-https://drive.google.com/file/d/1ud9BnjTj3V3AjvDT6nuPxIP3DtAXJUum/view?usp=sharing
+https://docs.google.com/spreadsheets/d/11Nr6sHTTLxbhBkR8QlHNdMD6hJIbeV6kt7j4aLcCqKs/edit?usp=sharing
 ---
-[Пример моего тестового задания](ссылка с домашним заданием  к уроку 2.8)
